@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "dyeable_poplar:block/light_blue_dyed_poplar_pressure_plate"
+    },
+    "powered=true": {
+      "model": "dyeable_poplar:block/light_blue_dyed_poplar_pressure_plate_down"
+    }
+  }
+}

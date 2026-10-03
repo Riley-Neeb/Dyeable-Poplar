@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dyed_poplar_sign",
+  "key": {
+    "#": [
+      "minecraft:poplar_sign",
+      "dyeable_poplar:white_dyed_poplar_sign",
+      "dyeable_poplar:gray_dyed_poplar_sign",
+      "dyeable_poplar:black_dyed_poplar_sign",
+      "dyeable_poplar:brown_dyed_poplar_sign",
+      "dyeable_poplar:red_dyed_poplar_sign",
+      "dyeable_poplar:orange_dyed_poplar_sign",
+      "dyeable_poplar:yellow_dyed_poplar_sign",
+      "dyeable_poplar:lime_dyed_poplar_sign",
+      "dyeable_poplar:green_dyed_poplar_sign",
+      "dyeable_poplar:cyan_dyed_poplar_sign",
+      "dyeable_poplar:light_blue_dyed_poplar_sign",
+      "dyeable_poplar:blue_dyed_poplar_sign",
+      "dyeable_poplar:purple_dyed_poplar_sign",
+      "dyeable_poplar:magenta_dyed_poplar_sign",
+      "dyeable_poplar:pink_dyed_poplar_sign"
+    ],
+    "X": "minecraft:light_gray_dye"
+  },
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "result": {
+    "count": 8,
+    "id": "dyeable_poplar:light_gray_dyed_poplar_sign"
+  }
+}

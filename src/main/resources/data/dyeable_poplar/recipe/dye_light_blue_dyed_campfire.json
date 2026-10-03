@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "dyed_campfire",
+  "ingredients": [
+    "minecraft:light_blue_dye",
+    [
+      "minecraft:campfire",
+      "dyeable_poplar:white_dyed_campfire",
+      "dyeable_poplar:light_gray_dyed_campfire",
+      "dyeable_poplar:gray_dyed_campfire",
+      "dyeable_poplar:black_dyed_campfire",
+      "dyeable_poplar:brown_dyed_campfire",
+      "dyeable_poplar:red_dyed_campfire",
+      "dyeable_poplar:orange_dyed_campfire",
+      "dyeable_poplar:yellow_dyed_campfire",
+      "dyeable_poplar:lime_dyed_campfire",
+      "dyeable_poplar:green_dyed_campfire",
+      "dyeable_poplar:cyan_dyed_campfire",
+      "dyeable_poplar:blue_dyed_campfire",
+      "dyeable_poplar:purple_dyed_campfire",
+      "dyeable_poplar:magenta_dyed_campfire",
+      "dyeable_poplar:pink_dyed_campfire"
+    ]
+  ],
+  "result": {
+    "id": "dyeable_poplar:light_blue_dyed_campfire"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "group": "wooden_pressure_plate",
+  "key": {
+    "#": "dyeable_poplar:orange_dyed_poplar_planks"
+  },
+  "pattern": [
+    "##"
+  ],
+  "result": {
+    "id": "dyeable_poplar:orange_dyed_poplar_pressure_plate"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_shelf_inventory",
+  "textures": {
+    "all": "minecraft:block/poplar_shelf_dyed_magenta",
+    "particle": "minecraft:block/stripped_poplar_log_dyed_magenta"
+  }
+}

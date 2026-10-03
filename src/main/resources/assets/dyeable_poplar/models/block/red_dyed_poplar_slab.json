@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "minecraft:block/poplar_planks_dyed_red",
+    "side": "minecraft:block/poplar_planks_dyed_red",
+    "top": "minecraft:block/poplar_planks_dyed_red"
+  }
+}

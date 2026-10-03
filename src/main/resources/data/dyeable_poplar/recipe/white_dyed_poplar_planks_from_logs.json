@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "planks",
+  "ingredients": [
+    [
+      "dyeable_poplar:white_dyed_poplar_log",
+      "dyeable_poplar:white_dyed_poplar_wood",
+      "dyeable_poplar:white_dyed_stripped_poplar_log",
+      "dyeable_poplar:white_dyed_stripped_poplar_wood"
+    ]
+  ],
+  "result": {
+    "count": 4,
+    "id": "dyeable_poplar:white_dyed_poplar_planks"
+  }
+}

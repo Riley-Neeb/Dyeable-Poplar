@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "group": "wooden_button",
+  "ingredients": [
+    "dyeable_poplar:gray_dyed_poplar_planks"
+  ],
+  "result": {
+    "id": "dyeable_poplar:gray_dyed_poplar_button"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "dyeable_poplar:block/white_dyed_poplar_slab"
+    },
+    "type=double": {
+      "model": "dyeable_poplar:block/white_dyed_poplar_planks"
+    },
+    "type=top": {
+      "model": "dyeable_poplar:block/white_dyed_poplar_slab_top"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+	"schemaVersion": 1,
+	"id": "dyeable_poplar",
+	"version": "${version}",
+	"name": "Dyeable Poplar",
+	"description": "Dye the whole poplar wood set in all 16 colors: logs, wood, planks, stairs, slabs, fences, gates, doors, trapdoors, buttons, pressure plates, signs, hanging signs, shelves and boats, plus campfires that smoke in their dye color.",
+	"authors": [
+		"Fatul"
+	],
+	"license": "MIT",
+	"icon": "assets/dyeable_poplar/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.fatul.dyeablepoplar.DyeablePoplar"
+		],
+		"client": [
+			"com.fatul.dyeablepoplar.client.DyeablePoplarClient"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": "~26.3",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}

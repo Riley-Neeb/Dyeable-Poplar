@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_stripped_log": {
+      "conditions": {
+        "items": [
+          {
+            "items": "dyeable_poplar:blue_dyed_stripped_poplar_log"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipes": "dyeable_poplar:blue_dyed_poplar_shelf"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_stripped_log"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "dyeable_poplar:blue_dyed_poplar_shelf"
+    ]
+  }
+}

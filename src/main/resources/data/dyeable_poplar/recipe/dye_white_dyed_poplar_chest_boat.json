@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "dyed_poplar_chest_boat",
+  "ingredients": [
+    "minecraft:white_dye",
+    [
+      "minecraft:poplar_chest_boat",
+      "dyeable_poplar:light_gray_dyed_poplar_chest_boat",
+      "dyeable_poplar:gray_dyed_poplar_chest_boat",
+      "dyeable_poplar:black_dyed_poplar_chest_boat",
+      "dyeable_poplar:brown_dyed_poplar_chest_boat",
+      "dyeable_poplar:red_dyed_poplar_chest_boat",
+      "dyeable_poplar:orange_dyed_poplar_chest_boat",
+      "dyeable_poplar:yellow_dyed_poplar_chest_boat",
+      "dyeable_poplar:lime_dyed_poplar_chest_boat",
+      "dyeable_poplar:green_dyed_poplar_chest_boat",
+      "dyeable_poplar:cyan_dyed_poplar_chest_boat",
+      "dyeable_poplar:light_blue_dyed_poplar_chest_boat",
+      "dyeable_poplar:blue_dyed_poplar_chest_boat",
+      "dyeable_poplar:purple_dyed_poplar_chest_boat",
+      "dyeable_poplar:magenta_dyed_poplar_chest_boat",
+      "dyeable_poplar:pink_dyed_poplar_chest_boat"
+    ]
+  ],
+  "result": {
+    "id": "dyeable_poplar:white_dyed_poplar_chest_boat"
+  }
+}

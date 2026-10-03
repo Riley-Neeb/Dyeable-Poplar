@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column_horizontal",
+  "textures": {
+    "end": "minecraft:block/poplar_log_top_dyed_orange",
+    "side": "minecraft:block/poplar_log_dyed_orange"
+  }
+}

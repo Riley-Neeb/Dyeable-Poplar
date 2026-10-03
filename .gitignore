@@ -1,0 +1,39 @@
+# gradle
+.gradle/
+build/
+out/
+classes/
+
+# idea
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# vscode
+.settings/
+.vscode/
+bin/
+.classpath
+.project
+
+# macos
+*.DS_Store
+
+# fabric
+run/
+
+# java
+hs_err_*.log
+replay_*.log
+*.hprof
+*.jfr
+
+# local Java 25 used by build.bat
+.jdk/
+build-log.txt
+build-status.txt
+request.txt
+
+# file transfer scratch
+.sync/

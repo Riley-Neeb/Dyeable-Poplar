@@ -1,0 +1,15 @@
+{
+	"schemaVersion": 1,
+	"id": "dyeable_poplar_test",
+	"version": "1.0.0",
+	"name": "Dyeable Poplar showcase test",
+	"environment": "*",
+	"entrypoints": {
+		"fabric-client-gametest": [
+			"com.fatul.dyeablepoplar.test.DyedPoplarShowcaseTest"
+		]
+	},
+	"depends": {
+		"dyeable_poplar": "*"
+	}
+}

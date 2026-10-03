@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "dyeable_poplar:block/blue_dyed_poplar_log_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "dyeable_poplar:block/blue_dyed_poplar_log"
+    },
+    "axis=z": {
+      "model": "dyeable_poplar:block/blue_dyed_poplar_log_horizontal",
+      "x": 90
+    }
+  }
+}

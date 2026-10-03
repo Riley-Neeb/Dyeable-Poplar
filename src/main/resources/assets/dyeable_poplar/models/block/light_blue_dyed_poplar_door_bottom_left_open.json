@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/door_bottom_left_open",
+  "textures": {
+    "bottom": "minecraft:block/poplar_door_bottom_dyed_light_blue",
+    "top": "minecraft:block/poplar_door_top_dyed_light_blue"
+  }
+}

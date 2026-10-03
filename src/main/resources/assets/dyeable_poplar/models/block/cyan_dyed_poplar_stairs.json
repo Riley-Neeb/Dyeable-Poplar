@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "minecraft:block/poplar_planks_dyed_cyan",
+    "side": "minecraft:block/poplar_planks_dyed_cyan",
+    "top": "minecraft:block/poplar_planks_dyed_cyan"
+  }
+}

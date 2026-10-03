@@ -1,0 +1,166 @@
+{
+  "sources": [
+    {
+      "type": "minecraft:paletted_permutations",
+      "textures": [
+        "minecraft:block/poplar_planks"
+      ],
+      "palette_key": "dyeable_poplar:poplar_planks/key",
+      "permutations": {
+        "white": "dyeable_poplar:poplar_planks/white",
+        "light_gray": "dyeable_poplar:poplar_planks/light_gray",
+        "gray": "dyeable_poplar:poplar_planks/gray",
+        "black": "dyeable_poplar:poplar_planks/black",
+        "brown": "dyeable_poplar:poplar_planks/brown",
+        "red": "dyeable_poplar:poplar_planks/red",
+        "orange": "dyeable_poplar:poplar_planks/orange",
+        "yellow": "dyeable_poplar:poplar_planks/yellow",
+        "lime": "dyeable_poplar:poplar_planks/lime",
+        "green": "dyeable_poplar:poplar_planks/green",
+        "cyan": "dyeable_poplar:poplar_planks/cyan",
+        "light_blue": "dyeable_poplar:poplar_planks/light_blue",
+        "blue": "dyeable_poplar:poplar_planks/blue",
+        "purple": "dyeable_poplar:poplar_planks/purple",
+        "magenta": "dyeable_poplar:poplar_planks/magenta",
+        "pink": "dyeable_poplar:poplar_planks/pink"
+      },
+      "separator": "_dyed_"
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "textures": [
+        "minecraft:block/poplar_log",
+        "minecraft:block/poplar_log_top"
+      ],
+      "palette_key": "dyeable_poplar:poplar_log/key",
+      "permutations": {
+        "white": "dyeable_poplar:poplar_log/white",
+        "light_gray": "dyeable_poplar:poplar_log/light_gray",
+        "gray": "dyeable_poplar:poplar_log/gray",
+        "black": "dyeable_poplar:poplar_log/black",
+        "brown": "dyeable_poplar:poplar_log/brown",
+        "red": "dyeable_poplar:poplar_log/red",
+        "orange": "dyeable_poplar:poplar_log/orange",
+        "yellow": "dyeable_poplar:poplar_log/yellow",
+        "lime": "dyeable_poplar:poplar_log/lime",
+        "green": "dyeable_poplar:poplar_log/green",
+        "cyan": "dyeable_poplar:poplar_log/cyan",
+        "light_blue": "dyeable_poplar:poplar_log/light_blue",
+        "blue": "dyeable_poplar:poplar_log/blue",
+        "purple": "dyeable_poplar:poplar_log/purple",
+        "magenta": "dyeable_poplar:poplar_log/magenta",
+        "pink": "dyeable_poplar:poplar_log/pink"
+      },
+      "separator": "_dyed_"
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "textures": [
+        "minecraft:block/stripped_poplar_log",
+        "minecraft:block/stripped_poplar_log_top"
+      ],
+      "palette_key": "dyeable_poplar:stripped_poplar_log/key",
+      "permutations": {
+        "white": "dyeable_poplar:stripped_poplar_log/white",
+        "light_gray": "dyeable_poplar:stripped_poplar_log/light_gray",
+        "gray": "dyeable_poplar:stripped_poplar_log/gray",
+        "black": "dyeable_poplar:stripped_poplar_log/black",
+        "brown": "dyeable_poplar:stripped_poplar_log/brown",
+        "red": "dyeable_poplar:stripped_poplar_log/red",
+        "orange": "dyeable_poplar:stripped_poplar_log/orange",
+        "yellow": "dyeable_poplar:stripped_poplar_log/yellow",
+        "lime": "dyeable_poplar:stripped_poplar_log/lime",
+        "green": "dyeable_poplar:stripped_poplar_log/green",
+        "cyan": "dyeable_poplar:stripped_poplar_log/cyan",
+        "light_blue": "dyeable_poplar:stripped_poplar_log/light_blue",
+        "blue": "dyeable_poplar:stripped_poplar_log/blue",
+        "purple": "dyeable_poplar:stripped_poplar_log/purple",
+        "magenta": "dyeable_poplar:stripped_poplar_log/magenta",
+        "pink": "dyeable_poplar:stripped_poplar_log/pink"
+      },
+      "separator": "_dyed_"
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "textures": [
+        "minecraft:block/poplar_door_top",
+        "minecraft:block/poplar_door_bottom",
+        "minecraft:block/poplar_trapdoor",
+        "minecraft:block/poplar_sign"
+      ],
+      "palette_key": "dyeable_poplar:poplar_details/key",
+      "permutations": {
+        "white": "dyeable_poplar:poplar_details/white",
+        "light_gray": "dyeable_poplar:poplar_details/light_gray",
+        "gray": "dyeable_poplar:poplar_details/gray",
+        "black": "dyeable_poplar:poplar_details/black",
+        "brown": "dyeable_poplar:poplar_details/brown",
+        "red": "dyeable_poplar:poplar_details/red",
+        "orange": "dyeable_poplar:poplar_details/orange",
+        "yellow": "dyeable_poplar:poplar_details/yellow",
+        "lime": "dyeable_poplar:poplar_details/lime",
+        "green": "dyeable_poplar:poplar_details/green",
+        "cyan": "dyeable_poplar:poplar_details/cyan",
+        "light_blue": "dyeable_poplar:poplar_details/light_blue",
+        "blue": "dyeable_poplar:poplar_details/blue",
+        "purple": "dyeable_poplar:poplar_details/purple",
+        "magenta": "dyeable_poplar:poplar_details/magenta",
+        "pink": "dyeable_poplar:poplar_details/pink"
+      },
+      "separator": "_dyed_"
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "textures": [
+        "minecraft:block/poplar_hanging_sign",
+        "minecraft:block/poplar_shelf"
+      ],
+      "palette_key": "dyeable_poplar:stripped_poplar_details/key",
+      "permutations": {
+        "white": "dyeable_poplar:stripped_poplar_details/white",
+        "light_gray": "dyeable_poplar:stripped_poplar_details/light_gray",
+        "gray": "dyeable_poplar:stripped_poplar_details/gray",
+        "black": "dyeable_poplar:stripped_poplar_details/black",
+        "brown": "dyeable_poplar:stripped_poplar_details/brown",
+        "red": "dyeable_poplar:stripped_poplar_details/red",
+        "orange": "dyeable_poplar:stripped_poplar_details/orange",
+        "yellow": "dyeable_poplar:stripped_poplar_details/yellow",
+        "lime": "dyeable_poplar:stripped_poplar_details/lime",
+        "green": "dyeable_poplar:stripped_poplar_details/green",
+        "cyan": "dyeable_poplar:stripped_poplar_details/cyan",
+        "light_blue": "dyeable_poplar:stripped_poplar_details/light_blue",
+        "blue": "dyeable_poplar:stripped_poplar_details/blue",
+        "purple": "dyeable_poplar:stripped_poplar_details/purple",
+        "magenta": "dyeable_poplar:stripped_poplar_details/magenta",
+        "pink": "dyeable_poplar:stripped_poplar_details/pink"
+      },
+      "separator": "_dyed_"
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "textures": [
+        "minecraft:block/campfire_log"
+      ],
+      "palette_key": "dyeable_poplar:campfire_log/key",
+      "permutations": {
+        "white": "dyeable_poplar:campfire_log/white",
+        "light_gray": "dyeable_poplar:campfire_log/light_gray",
+        "gray": "dyeable_poplar:campfire_log/gray",
+        "black": "dyeable_poplar:campfire_log/black",
+        "brown": "dyeable_poplar:campfire_log/brown",
+        "red": "dyeable_poplar:campfire_log/red",
+        "orange": "dyeable_poplar:campfire_log/orange",
+        "yellow": "dyeable_poplar:campfire_log/yellow",
+        "lime": "dyeable_poplar:campfire_log/lime",
+        "green": "dyeable_poplar:campfire_log/green",
+        "cyan": "dyeable_poplar:campfire_log/cyan",
+        "light_blue": "dyeable_poplar:campfire_log/light_blue",
+        "blue": "dyeable_poplar:campfire_log/blue",
+        "purple": "dyeable_poplar:campfire_log/purple",
+        "magenta": "dyeable_poplar:campfire_log/magenta",
+        "pink": "dyeable_poplar:campfire_log/pink"
+      },
+      "separator": "_dyed_"
+    }
+  ]
+}

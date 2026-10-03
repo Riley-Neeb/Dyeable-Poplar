@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/campfire",
+  "textures": {
+    "log": "minecraft:block/campfire_log_dyed_magenta",
+    "particle": "minecraft:block/campfire_log_dyed_magenta"
+  }
+}

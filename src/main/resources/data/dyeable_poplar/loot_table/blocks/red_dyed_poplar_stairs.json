@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "condition": {
+        "type": "minecraft:survives_explosion"
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "dyeable_poplar:red_dyed_poplar_stairs"
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "random_sequence": "dyeable_poplar:blocks/red_dyed_poplar_stairs"
+}

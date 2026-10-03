@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "condition": {
+        "type": "minecraft:survives_explosion"
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "condition": {
+            "type": "minecraft:match_block",
+            "blocks": "dyeable_poplar:purple_dyed_poplar_door",
+            "state": {
+              "half": "lower"
+            }
+          },
+          "name": "dyeable_poplar:purple_dyed_poplar_door"
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "random_sequence": "dyeable_poplar:blocks/purple_dyed_poplar_door"
+}

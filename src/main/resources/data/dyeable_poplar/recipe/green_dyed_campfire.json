@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "C": "#minecraft:coals",
+    "L": [
+      "dyeable_poplar:green_dyed_poplar_log",
+      "dyeable_poplar:green_dyed_poplar_wood",
+      "dyeable_poplar:green_dyed_stripped_poplar_log",
+      "dyeable_poplar:green_dyed_stripped_poplar_wood"
+    ],
+    "S": "minecraft:stick"
+  },
+  "pattern": [
+    " S ",
+    "SCS",
+    "LLL"
+  ],
+  "result": {
+    "id": "dyeable_poplar:green_dyed_campfire"
+  }
+}
